@@ -1,3 +1,4 @@
+--only-binary=:all:
 --extra-index-url https://download.pytorch.org/whl/cpu
 # ^ Linux'ta (Render/Docker) `pip install torch` VARSAYILAN olarak CUDA'lı dev
 # boyutlu wheel'i indirir (birkaç GB) — GPU'suz bir sunucuda bu tamamen
