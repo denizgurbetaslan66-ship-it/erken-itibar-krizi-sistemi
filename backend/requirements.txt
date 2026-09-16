@@ -8,7 +8,8 @@ psycopg2-binary
 redis
 python-jose[cryptography]
 passlib[bcrypt]
-bcrypt
+bcrypt==4.0.1
+passlib[bcrypt]==1.7.4
 python-multipart
 httpx
 scikit-learn
