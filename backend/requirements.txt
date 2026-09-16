@@ -19,3 +19,4 @@ torch
 transformers
 gunicorn
 uvicorn
+slowapi
