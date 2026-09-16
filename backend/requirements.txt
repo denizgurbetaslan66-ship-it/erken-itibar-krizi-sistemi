@@ -18,3 +18,4 @@ pandas
 torch
 transformers
 gunicorn
+uvicorn
