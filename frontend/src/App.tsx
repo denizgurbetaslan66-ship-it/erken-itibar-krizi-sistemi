@@ -2,7 +2,6 @@ import { useEffect } from 'react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { TooltipProvider } from '@/components/ui/tooltip';
 import { Route, Switch, Router as WouterRouter, useLocation } from 'wouter';
-import { AppProvider, useAppContext } from '@/lib/app-context';
 import { Navbar } from '@/components/navbar';
 import { Toaster as SonnerToaster } from 'sonner';
 
